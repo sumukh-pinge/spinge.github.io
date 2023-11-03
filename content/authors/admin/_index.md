@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Sumukh Pinge
 
 # Name pronunciation (optional)
-name_pronunciation: Sumukh Pinge
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Sumukh
